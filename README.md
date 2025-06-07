@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Google Sheets Dashboard</b>  
-  - [Netflix Content Analysis Dashboard](https://docs.google.com/spreadsheets/d/12PPaaZqRzw20HB-L8NEI2wQu_6QXq4BVZmWoonkMedE/edit?usp=sharing)  
+  - [Netflix Content Analysis Dashboard]([https://docs.google.com/spreadsheets/d/12PPaaZqRzw20HB-L8NEI2wQu_6QXq4BVZmWoonkMedE/edit?usp=sharing](https://github.com/SarahEstellNtifu/netflix-google-sheets-analysis)  
   -  Analyzed Netflix content by genre, country, and release year. Used pivot tables, charts, and filtering to reveal content distribution, trends, and top-performing categories.
 - <b>Power BI Report</b>  
   - [Student Academic Performance Report](https://umainesystem-my.sharepoint.com/:u:/g/personal/sarah_ntifu_maine_edu/Ef5R0LAzeeBMiijRkT-2W8EBqYJyDZXdBjWZNmdkAPPk_g?e=sdGEAb)  

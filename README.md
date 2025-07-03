@@ -3,7 +3,7 @@
 <h2>👨‍💻 Junior Data Analyst Projects:</h2>
 
 - <b>Google Sheets Dashboard</b>  
-  - [Netflix Content Analysis Dashboard](https://github.com/SarahEstellNtifu/netflix-google-sheets-analysis)  
+  - [Netflix Content Analysis Dashboard](https://github.com/SarahEstellNtifu/Netflix-Content-Analysis)  
   -  Analyzed Netflix content by genre, country, and release year. Used pivot tables, charts, and filtering to reveal content distribution, trends, and top-performing categories.
 - <b>Power BI Report</b>  
   - [Student Academic Performance Report](https://github.com/SarahEstellNtifu/Student-Academic-Performance) 

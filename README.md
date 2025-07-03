@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sarah! <br/><a href="https://github.com/sarahntifu">Data Analyst</a></h1>
 
-<h2>👨‍💻 Data Analyst Projects:</h2>
+<h2>👨‍💻 Junior Data Analyst Projects:</h2>
 
 - <b>Google Sheets Dashboard</b>  
   - [Netflix Content Analysis Dashboard](https://github.com/SarahEstellNtifu/netflix-google-sheets-analysis)  
